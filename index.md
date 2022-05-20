@@ -9,7 +9,7 @@
 
 ---
 [Double Exposure](/pdf/sample_presentation.pdf)
-<img src="images/kanye exposure.png?raw=true"/>
+<img src="images/kanyeexposure.png?raw=true"/>
 
 ---
 [Galaxy Cat](http://example.com/)
@@ -17,7 +17,7 @@
 
 ---
 [Cool Retro Collage](http://example.com/)
-<img src="images/kanyecoolretro.png?raw=true"/>
+<img src="images/kanyecoolretro.jpg?raw=true"/>
 
 ---
 [3D Pop Out effect](http://example.com/)
