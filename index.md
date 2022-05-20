@@ -4,26 +4,26 @@
 
 ### My Creative Works 
 
-[Project 1 Title](/sample_page)
+[Ripped Effect](/sample_page)
 <img src="images/blackjesus.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Double Exposure](/pdf/sample_presentation.pdf)
+<img src="images/kanyeexposure.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Galaxy Cat](http://example.com/)
+<img src="images/galaxycat.png?raw=true"/>
 
 ---
+[Cool Retro Collage](http://example.com/)
+<img src="images/kanyecoolretro.png?raw=true"/>
 
-### Category Name 2
+---
+[3D Pop Out effect](http://example.com/)
+<img src="images/kanyepopout.png?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
 
 ---
 
