@@ -9,7 +9,7 @@
 
 ---
 [Double Exposure](/pdf/sample_presentation.pdf)
-<img src="images/kanyeexposure.png?raw=true"/>
+<img src="images/kanye exposure.png?raw=true"/>
 
 ---
 [Galaxy Cat](http://example.com/)
